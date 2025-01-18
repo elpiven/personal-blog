@@ -1,12 +1,11 @@
 lang: en
 home:
-  welcome: 'Welcome to my blog'
+  welcome: 'UX Blog'
 menu_links: []
 metas:
   site: El Piven
-  description: General description of the blog
+  description: Accumulation of my new UX discoveries 
   title: =title
   image: =image
-  twitter: '@username'
   lang: en
   generator: false

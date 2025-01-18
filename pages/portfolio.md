@@ -2,7 +2,7 @@
 title: Portfolio
 layout: layouts/page.vto
 menu:
-  visible: true
+  visible: false
   order: 0
 ---
 

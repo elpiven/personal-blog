@@ -2,7 +2,7 @@
 title: Resume
 layout: layouts/page.vto
 menu:
-  visible: true
+  visible: false
   order: 1
 ---
 
